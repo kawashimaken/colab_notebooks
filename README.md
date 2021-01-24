@@ -9,6 +9,10 @@ some useful links:
 
 TensorFlow
 
+Fashion分類
+
+* https://github.com/tensorflow/docs/blob/master/site/en/tutorials/keras/classification.ipynb 
+
 セグメンテーション
 
 * https://www.tensorflow.org/tutorials/images/segmentation
